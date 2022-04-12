@@ -11,3 +11,6 @@
 
 [기술블로그](https://medium.com/@hyeonz)<br>
 [기술공책](https://hyeonproject.notion.site/Restart-Programmer-cd3bfb8570d643de982f8eca557519af)
+
+## 스터디 진행
+[SQLAlchemy 튜토리얼 한글화](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)<br>
