@@ -5,10 +5,15 @@
 ## What is Hyeonproject
 
 It is a project to create value. <br> 
-value is a good flow <br>
+value is a good flow. <br>
 I have a good weapon called programming.<br>
 
 ![](https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif)
+
+## Now Status
+
+- I working in jaranda.
+- I back-end developer.
 
 [Medium Tech Blog](https://medium.com/@hyeonproject)<br>
 [Notion Tech Note](https://hyeonproject.notion.site/Restart-Programmer-cd3bfb8570d643de982f8eca557519af)
