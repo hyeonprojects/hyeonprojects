@@ -15,6 +15,7 @@ I have a good weapon called programming.<br>
 - I back-end developer. But developers should be able to do everything.
 - I'm currently off work.
 - I Study Java, Spring Framework. I didn't reveal everything.
+- Understand and use language or environment. 
 
 [Medium Tech Blog](https://medium.com/@hyeonproject)<br>
 [Notion Tech Note](https://hyeonproject.notion.site/Restart-Programmer-cd3bfb8570d643de982f8eca557519af)
