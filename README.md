@@ -3,7 +3,7 @@
 > Making Value, Making Code, Better than yesterday, Make good flow, Free will<br>
 > Code Detective Hyeon
 
-## What is Hyeonproject
+## 코드 명탐점
 
 코드로 되어있는 복잡한 문제를 해결한다는 의미로 코드 명탐정으로 적어놓았습니다. (개발 지인들에게 많이 들었습니다.)
 
