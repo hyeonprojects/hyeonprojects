@@ -1,6 +1,7 @@
 # Übermensch Hyeonproject
 
 > Making Value, Making Code, Better than yesterday, Make good flow, Free will
+> Code Detective Hyeon
 
 ## What is Hyeonproject
 
