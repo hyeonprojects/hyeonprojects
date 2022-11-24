@@ -1,18 +1,24 @@
 # Code Detective Hyeonproject
 
-> Code Detective Hyeon
-> 코드 명탐정입니다.
+> Code Detective 
 
 
 ## Skill
+
+> 회사 업무로 경험해본 언어, 툴 등
+
 <div>
+  <h3>Laguange</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-1572B6?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-1572B6?style=flat-square&logo=javascript&logoColor=white"/>
+  <h3>Framework</h3>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </div>
 
 [Medium Tech Blog](https://medium.com/@hyeonproject)<br>
