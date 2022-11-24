@@ -5,8 +5,6 @@
 
 ## Skill
 
-> 회사 업무로 경험해본 언어, 툴 등
-
 <div>
   <h3>Laguange</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
