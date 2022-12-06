@@ -1,26 +1,6 @@
 # Code Detective Hyeonproject
 
-> Code Detective 
-
-
-## Skill
-
-<div>
-  <h3>Laguange</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1572B6?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-</div>
-<div>
-  <h3>Framework</h3>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-</div>
-<div>
-  <h3>Database</h3>
-</div>
+> Code Detective
 
 
 ## Dev Site
