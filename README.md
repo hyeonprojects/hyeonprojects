@@ -2,6 +2,8 @@
 
 > Code Detective
 
+Github는 외부적인 활동이나 프로젝트성 할때 사용합니다. 실제적으로 Github에서도 하지만 Gitlab에서 연구를 많이 하고 있습니다.
+
 ## Career
 - BioAI
 - Jaranda
