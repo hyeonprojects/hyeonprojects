@@ -4,7 +4,6 @@
 
 
 ## Career
-- Free
 - Jaranda
 - BioAI
 
