@@ -2,16 +2,15 @@
 
 > Code Detective
 
-Github, Gitlab 둘 다 사용합니다.
 
 ## Career
-- BioAI
 - Jaranda
+- BioAI
 
 
 ## Dev Site
 [Medium Tech Blog](https://medium.com/@hyeonproject)<br>
-[Notion Tech Note](https://hyeonproject.notion.site/Restart-Programmer-cd3bfb8570d643de982f8eca557519af)
+[Notion Tech Note](https://hyeonproject.notion.site)<br>
 
 ## Team Study
 [SQLAlchemy 튜토리얼 한글화](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)<br>
