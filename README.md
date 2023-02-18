@@ -4,6 +4,7 @@
 
 
 ## Career
+- Social Investing lab.
 - Jaranda
 - BioAI
 
