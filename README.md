@@ -1,7 +1,7 @@
 # Code Detective Hyeonproject
 
 > Code Detective
-<h3 align="center">Code Detective, Back-End Engineer In Korea</h3>
+<h3>Code Detective, Back-End Engineer In Korea</h3>
 
 ![Hyeonproject GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonprojects&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonprojects&layout=compact)](https://github.com/heyonporjects/github-readme-stats)
