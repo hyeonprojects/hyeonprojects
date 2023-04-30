@@ -3,6 +3,8 @@
 > Code Detective
 <h3>Code Detective, Back-End Engineer In Korea</h3>
 
+언어와 도구를 잘 이해하고 사용하는 백엔드개발자를 목표로 합니다.
+
 ![Hyeonproject GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonprojects&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonprojects&layout=compact)](https://github.com/heyonporjects/github-readme-stats)
 
