@@ -15,6 +15,7 @@
 ## Dev Site
 [Medium Tech Blog](https://medium.com/@hyeonproject)<br>
 [Notion Tech Note](https://hyeonproject.notion.site)<br>
+[개발집사](https://youtu.be/UqHw4nhjI94)<br>
 
 ## Oficial Study
 [SQLAlchemy 튜토리얼 한글화](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)<br>
