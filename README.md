@@ -19,6 +19,6 @@
 [Big Data Lab. Ocean Project 연구 및 논문](https://gitlab.com/bd-crew/ocean)
 
 ## Career
-- Social Investing lab.
+- Social Investing lab. : (https://github.com/coffeehouse-DongHyeon)[https://github.com/coffeehouse-DongHyeon]
 - Jaranda
 - BioAI
