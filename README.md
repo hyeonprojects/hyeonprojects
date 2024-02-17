@@ -1,8 +1,8 @@
 # 개발자
 
-데이터베이스가 중요한 백엔드 개발자로 목표로 하고 있습니다.
+비즈니스 임팩트와 서비스에 맞는 최적의 성능을 맞추는 개발자를 백엔드 개발자를 목표로 하고 있습니다.
 
-또 찾고 싶은 개발자로 성장하겠습니다.
+또 찾고 싶은 개발자로 성장하고 있습니다.
 
 ![Hyeonproject GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonprojects&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonprojects&layout=compact)](https://github.com/heyonporjects/github-readme-stats)
