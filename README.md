@@ -19,7 +19,7 @@ I am growing into a developer that others want to work with.<br>
 [Big Data Lab. Ocean Project 연구 및 논문](https://gitlab.com/bd-crew/ocean)
 
 ## Career
-- Mass-adoption(Vircle) : NFT + CXM === GOOD
+- Mass-adoption(Vircle) : NFT + CXM
 - Museblossome : Music Watermarking Service and Music..
 - Social Investing lab. : [https://github.com/coffeehouse-DongHyeon](https://github.com/coffeehouse-DongHyeon)
 - Jaranda
