@@ -8,7 +8,7 @@ I am growing into a developer that others want to work with.<br>
 
 ## Dev Site
 [Medium Tech Blog](https://halved-centaur-24f.notion.site/Restart-Programmer-d48261e368924fe79467c83148964db7)<br>
-[Notion Tech Note](https://hyeonproject.notion.site)<br>
+[Notion Tech Note](https://hyeonprojects.notion.site/Restart-Programmer-d48261e368924fe79467c83148964db7)<br>
 
 ## Offical Study
 [SQLAlchemy 튜토리얼 한글화](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)<br>
