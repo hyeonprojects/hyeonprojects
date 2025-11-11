@@ -15,11 +15,11 @@ I am growing into a developer that others want to work with.<br>
 [Big Data Lab. Ocean Project 연구 및 논문](https://gitlab.com/bd-crew/ocean)
 
 ## Career
-- Mass-adoption(Vircle) : NFT + CXM + CRM
-- Museblossome : Music Watermarking Service and Music..
-- Social Investing lab. : [https://github.com/coffeehouse-DongHyeon](https://github.com/coffeehouse-DongHyeon)
-- Jaranda
-- BioAI
+- Mass-adoption(Vircle) : NFT + CXM + CRM + 데이터 인프라
+- Museblossome : 음원 워터마크 기술 개발
+- Social Investing lab. : 증권 + 소셜 앱 [https://github.com/coffeehouse-DongHyeon](https://github.com/coffeehouse-DongHyeon)
+- Jaranda : 육아 앱 서비스
+- BioAI : 신약 후보 물질 AI 서비스 웹 전체 개발 및 인프라 관리 및 개선
 
 ## Rank
 ![Hyeonproject GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonprojects&show_icons=true&theme=radical)
