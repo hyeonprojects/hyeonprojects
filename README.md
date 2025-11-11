@@ -7,7 +7,7 @@ Aim for developers with the best performance in business impact and service.<br>
 I am growing into a developer that others want to work with.<br>
 
 ## Dev Site
-[Medium Tech Blog](https://halved-centaur-24f.notion.site/Restart-Programmer-d48261e368924fe79467c83148964db7)<br>
+[Medium Tech Blog](https://medium.com/@hyeonproject)<br>
 [Notion Tech Note](https://hyeonprojects.notion.site/Restart-Programmer-d48261e368924fe79467c83148964db7)<br>
 
 ## Offical Study
