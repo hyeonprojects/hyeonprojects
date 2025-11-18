@@ -4,45 +4,43 @@
 
 <br>
 
-## 🎯 Profile Summary
+## ⚡ At a Glance
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Tech Stack
-TypeScript • Python • Kotlin  
-NestJS • FastAPI • Spring
+```
+TypeScript · Python · Kotlin
+NestJS · FastAPI · Spring
+Kafka · SQS · RabbitMQ
+```
 
-### 🏗️ Specialization
-```mermaidmindmap
-root((Backend
-Engineer))
-분산 시스템
-Kafka
-AWS SQS
-RabbitMQ
-대용량 처리
-Redis
-MySQL
-MongoDB
-자동화
-CI/CD
-Scripting
+### 🎯 Focus Areas
+- 🏗️ 분산 시스템 아키텍처
+- 📊 대용량 트래픽 처리  
+- 🤖 업무 프로세스 자동화
 
-### 📊 Impact Metrics
+</td>
+<td width="50%" valign="top">
 
-| 💰 Cost | ⚡ Performance | 🤖 Automation |
-|:---:|:---:|:---:|
-| **40%** 절감 | **20%** 향상 | **200+** 작업 |
+### 📈 Recent Impact
 
-</div>
+💰 **알림 비용 40% 절감**  
+벤더 최적화로 월 운영비 감소
 
----
+⚡ **처리 시간 20% 단축**  
+메시지 큐 도입으로 성능 개선
 
-<div align="center">
+🤖 **수동 업무 200+ 자동화**  
+관리자 도구 개발로 생산성 향상
 
-💡 **필요한 기술은 배우고, 배운 기술은 실전에 적용합니다**
+</td>
+</tr>
+</table>
 
-</div>
+> 💡 **Philosophy**: 필요한 기술은 배우고, 배운 기술은 실전에 적용합니다.
 
 <br>
 
