@@ -4,29 +4,45 @@
 
 <br>
 
-## 🎯 What I Do
+## 🎯 Profile Summary
 
-- 🏗️ **분산 시스템 아키텍처 설계** - 메시지 큐, 이벤트 드리븐, 마이크로서비스
-- 🚀 **대용량 트래픽 처리** - 분당 수만 건의 요청을 안정적으로 처리
-- 🔧 **레거시 시스템 개선** - 기술 부채 해결과 성능 최적화
-- 🤖 **업무 자동화** - 반복적인 수동 작업을 자동화하여 팀 생산성 향상
-- 🎨 **새로운 기술 습득** - 필요하면 배우고, 배우면 적용하는 실행력
+<div align="center">
 
-<br>
+### 💻 Tech Stack
+TypeScript • Python • Kotlin  
+NestJS • FastAPI • Spring
 
-## 🚀 Quick Highlights
-```typescript
-const developer = {
-  expertise: ["TypeScript", "Python", "Kotlin"],
-  focus: ["분산 시스템", "메시지 큐", "대용량 처리"],
-  impact: {
-    costReduction: "알림 비용 40% 절감",
-    performance: "처리 시간 20% 단축",
-    automation: "수동 업무 200+건 자동화"
-  },
-  philosophy: "필요한 기술은 배우고, 배운 기술은 실전에 적용합니다."
-}
-```
+### 🏗️ Specialization
+```mermaidmindmap
+root((Backend
+Engineer))
+분산 시스템
+Kafka
+AWS SQS
+RabbitMQ
+대용량 처리
+Redis
+MySQL
+MongoDB
+자동화
+CI/CD
+Scripting
+
+### 📊 Impact Metrics
+
+| 💰 Cost | ⚡ Performance | 🤖 Automation |
+|:---:|:---:|:---:|
+| **40%** 절감 | **20%** 향상 | **200+** 작업 |
+
+</div>
+
+---
+
+<div align="center">
+
+💡 **필요한 기술은 배우고, 배운 기술은 실전에 적용합니다**
+
+</div>
 
 <br>
 
