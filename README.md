@@ -99,15 +99,15 @@ Kafka · SQS · RabbitMQ
 <br>
 ## 📝 Recent Work
 
-### [notification-system](링크) ⭐ 
+### notification-system ⭐ 
 대규모 알림 발송 시스템 - Kafka, SQS, Redis  
 `분당 2만건 처리` `중복 발송 해결` `비용 40% 절감`
 
-### [audio-watermarking](링크)
-QIM 기반 음원 워터마킹 - FFT, Python  
+### audio-watermarking
+QIM + 비가청 주파수 삽입 + 임의 코드 삽입 음원 워터마킹 - FFT, Python  
 `처리 시간 20% 단축` `RabbitMQ` `비가청 주파수`
 
-### [realtime-chat](링크)
+### realtime-chat
 실시간 주식 채팅 - Socket.io, NestJS  
 `1000명 동시 접속` `스트레스 테스트 통과` `Jest 90%+`
 
