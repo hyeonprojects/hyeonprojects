@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Engineer | 이동현
+# 👨‍💻 Software Engineer | 이동현
 
 > 새로운 기술을 빠르게 습득하고, 비즈니스 임팩트를 만드는 개발자입니다.
 
