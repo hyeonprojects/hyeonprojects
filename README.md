@@ -1,6 +1,3 @@
-네, 바로 복사해서 사용하실 수 있도록 코드 블록으로 준비해 드립니다. 아래 내용을 복사해서 `README.md` 파일에 붙여넣으시면 됩니다.
-
-```markdown name=README.md
 # 👨‍💻 Software Engineer | DongHyeon Lee (이동현)
 
 <div align="center">
@@ -169,4 +166,3 @@ _Socket.io, NestJS_
 ![](https://komarev.com/ghpvc/?username=hyeonprojects&color=blueviolet&style=flat-square)
 
 </div>
-```
